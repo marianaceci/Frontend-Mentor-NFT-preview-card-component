@@ -19,7 +19,6 @@ body {
     background-color: var(--main-dark-blue);
     box-sizing: border-box;
     margin: 0;
-    overflow: hidden;
 }
 
 .container {
