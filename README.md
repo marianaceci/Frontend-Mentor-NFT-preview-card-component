@@ -26,8 +26,8 @@ Users should be able to:
 ![](./screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/frontendmentornftpreviewcardcomponent-FcEGY5Ug8x](https://www.frontendmentor.io/solutions/frontendmentornftpreviewcardcomponent-FcEGY5Ug8x)
+- Live Site URL: [https://marianaceci.github.io/Frontend-Mentor-NFT-preview-card-component/](https://marianaceci.github.io/Frontend-Mentor-NFT-preview-card-component/)
 
 ## My process
 
@@ -38,6 +38,5 @@ Users should be able to:
 
 ## Author
 - Frontend Mentor - [@marianaceci](https://www.frontendmentor.io/profile/marianaceci)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
